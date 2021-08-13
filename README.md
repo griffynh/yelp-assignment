@@ -1,2 +1,2 @@
 # yelp-assignment
-# This is the README file
+# This is my assignment for the DA Course
