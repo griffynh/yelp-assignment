@@ -1,2 +1,4 @@
 # yelp-assignment
-# This is my assignment for the DA Course
+# Yelp API scraper, formatter and analyser - by Griffyn Heels
+# Built for my Data Analytics course
+# Requires: Python/Jupyter Notebook
